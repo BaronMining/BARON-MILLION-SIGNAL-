@@ -1,5 +1,5 @@
-yfinance
-pandas
-python-telegram-bot
-flask
-gunicorn
+yfinance==1.2.2
+pandas==2.0.3
+pyTelegramBotAPI==4.12.0
+flask==2.3.2
+gunicorn==20.1.0
